@@ -4,8 +4,8 @@
       <img src="/images/main_logo.png" class="main-logo mx-auto" />
       <p class="mt-2 text-gray-700">
         RunningMap Service 페이지입니다. <br />
-        제공되는 템플릿을 활용해 프로젝트를 완성해 보세요!
-        version2
+        제공되는 템플릿을 활용해 프로젝트를 완성해 보세요! 
+	version3
       </p>
       <ul class="text-blue-700">
         <li v-for="navItem in navItems" :key="navItem._id" class="inline-block p-1">
